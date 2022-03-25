@@ -50,3 +50,4 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 2. hi
 3. daily
 4. update
+5. test
